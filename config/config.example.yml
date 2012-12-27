@@ -2,4 +2,5 @@ Wunderground:
   api key: '5bcaee3669de613f' # get this from http://www.wunderground.com/weather/api/
 
 test user:
-  location: "39.95,75.16" # as latitude and longitude
+  location: "39.95,75.16"
+  temperature units: 'metric' # 'english' or 'metric'
